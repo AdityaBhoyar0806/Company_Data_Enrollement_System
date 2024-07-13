@@ -1,0 +1,77 @@
+h2{
+ 
+    font-size: 40px;
+    color: white;
+    margin-left: 480px;
+ margin-top: -30px;
+ text-transform: uppercase;
+}
+/* .company-card{
+    height: 230px;
+    width:230px;
+    background-color: aquamarine;
+    margin: 10px;
+    float: right;
+    align-items: center;
+} */
+.container{
+  padding: 60px;
+  margin-left: 70px;
+}
+.company-card {
+    width: 250px;
+    height: 280px;
+    border-radius: 1rem;
+    margin-right: 75px;
+    margin-bottom: 50px;
+    float: left;
+    /* justify-content: center; */
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+  }
+  h3{
+    height: 75px;
+    width: 105%;
+    background-color: rgba(20, 228, 228, 0.397);
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 28px;
+   margin: 20px;
+   border-radius: 10px;
+  }
+  .title{
+    padding-top: 10px;
+  }
+  p{
+    text-align: center;
+    margin-top: 30px;
+    /* justify-content: center;
+    align-content: center; */
+    font-size: 15px;
+    
+  }
+  p span{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+  }
+  button{
+    width:70px;
+    height: 25px;
+    border-radius: 5px;
+    float: left;
+    margin-left: 40px;
+  }
+  button:hover{
+    background: #6d44b8;
+    scale: 1.2;
+  }
+  .fordetail{
+    cursor: pointer;
+  }
+  /* .card-actions{
+    width: 30px;
+    height: 20px;
+  } */

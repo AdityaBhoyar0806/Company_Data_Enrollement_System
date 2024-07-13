@@ -1,0 +1,25 @@
+.content{
+    width: 80%;
+}
+h1{
+    text-align: center;
+}
+p{
+    color: rgb(208, 218, 218);
+
+}
+img{
+    /* align-items: center; */
+    height: 200px;
+    width: 300px;
+    margin: 20px;
+}
+.image1{
+    background: url("aditya.jpg") no-repeat center / cover;
+    }
+.image2{
+    background: url("ABS2.jpg") no-repeat center / cover;
+   }
+.image3{
+    background: url("ABS3.jpg") no-repeat center / cover;
+   }
